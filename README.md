@@ -4,7 +4,7 @@
 
 This project is a **responsive landing page** for an online store, designed with a focus on modern UI principles, responsiveness, and usability. It includes a structured layout with a **header**, **product showcase**, and a **footer**, and ensures optimal display across desktop and mobile devices.
 
-🔗 [Live Preview](https://github.com/Phenomenal5/Responsive-Store-Landing-Page-Design)
+🔗 [Live Preview](https://github.com/Phenomenal5/Responsive-Store-Landing-Page-Design/)
 
 ---
 
