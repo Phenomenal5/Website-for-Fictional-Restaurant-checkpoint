@@ -1,18 +1,18 @@
-# 🛍️ Responsive Store Landing Page Design
+# 🍽️ Responsive Restaurant Website Design
 
 ## 📌 Project Overview
 
-This project is a **responsive landing page** for an online store, designed with a focus on modern UI principles, responsiveness, and usability. It includes a structured layout with a **header**, **product showcase**, and a **footer**, and ensures optimal display across desktop and mobile devices.
+This project is a **responsive webpage** for a fictional restaurant, designed with a focus on modern UI principles, responsiveness, and usability. It includes a structured layout with a **header**, **menu section**, **about us section**, **contact form**, and **footer**, and ensures optimal display across desktop and mobile devices.
 
-🔗 [Live Preview](https://phenomenal5.github.io/Responsive-Store-Landing-Page-Design/)
+🔗 [Live Preview](https://phenomenal5.github.io/Website-for-Fictional-Restaurant-checkpoint/)
 
 ---
 
 ## 🎯 Objective
 
-- Build a visually appealing and functional store landing page.
+- Build a visually appealing and functional restaurant website.
 - Ensure responsive behavior across various screen sizes.
-- Implement product cards and clean navigation.
+- Implement menu items, a contact form, and clean navigation.
 
 ---
 
@@ -21,8 +21,10 @@ This project is a **responsive landing page** for an online store, designed with
 ### ✅ HTML Structure
 
 - Semantic HTML layout with:
-  - **Header**: Includes navigation menu with section links.
-  - **Product Section**: At least four product cards.
+  - **Header**: Includes navigation menu with section links (Home, Menu, About Us, Contact).
+  - **Menu Section**: At least three menu items with image, title, description, and price.
+  - **About Us Section**: Two-column layout with restaurant details and image.
+  - **Contact Section**: A form with fields for name, email, and message.
   - **Footer**: Placeholder for social media or copyright.
 
 ### ✅ CSS Styling
@@ -31,13 +33,13 @@ This project is a **responsive landing page** for an online store, designed with
 - Consistent use of colors, spacing, and typography.
 - Media queries applied to ensure the page adjusts to screen sizes.
 
-### ✅ Product Section
+### ✅ Menu Section
 
-- Each product card includes:
-  - Product **image**
-  - Product **name**
-  - Short **description**
-  - "Shop Now" **button**
+- Each menu item includes:
+  - **Image** of the dish.
+  - **Name** of the dish.
+  - **Short description** of the dish.
+  - **Price** of the dish.
 - Styled to ensure consistency, alignment, and visual appeal.
 
 ### ✅ Responsive Design
@@ -53,13 +55,13 @@ This project is a **responsive landing page** for an online store, designed with
 - **HTML5**
 - **CSS3**
 - Optional CSS Library:
-  - **Tailwind CSS** (or **Bootstrap**) can be added for enhanced responsiveness and utilities.
+  - **Bootstrap** can be added for enhanced responsiveness and utilities.
 
 ---
 
 ## 💡 Optional Enhancements (Extra Points)
 
-- Integration of a **CSS framework** (e.g., Tailwind CSS or Bootstrap).
+- Integration of a **CSS framework** (e.g., Bootstrap) for layout and styling.
 - Use of **hover effects**, **transitions**, or **grid/flexbox** layouts.
 - Animated scroll or enhanced button interactions.
 
@@ -83,12 +85,12 @@ This project is a **responsive landing page** for an online store, designed with
 
 - **Design Choices**:
   - Clean and minimalist layout for better UX.
-  - Cards designed with consistent sizing and spacing.
+  - Consistent card and grid designs for the menu items.
   - Color palette chosen for contrast and readability.
 
 - **Best Practices**:
-  - Semantic HTML used.
-  - Responsive typography and spacing.
+  - Semantic HTML used for better SEO and accessibility.
+  - Responsive typography and spacing for varying screen sizes.
   - Well-commented code for clarity and maintainability.
 
 ---
@@ -98,6 +100,6 @@ This project is a **responsive landing page** for an online store, designed with
 To run this project locally:
 
 ```bash
-git clone https://github.com/Phenomenal5/Responsive-Store-Landing-Page-Design.git
-cd Responsive-Store-Landing-Page-Design
+git clone https://github.com/Phenomenal5/Website-for-Fictional-Restaurant-checkpoint.git
+cd Website-for-Fictional-Restaurant-checkpoint
 open index.html
