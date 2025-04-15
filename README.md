@@ -69,11 +69,11 @@ This project is a **responsive landing page** for an online store, designed with
 
 ### 💻 Desktop View
 
-![Desktop View](screenshots/desktop.png)
+![Desktop View](screenshots/Desktop.png)
 
 ### 📱 Mobile View
 
-![Mobile View](screenshots/mobile.png)
+![Mobile View](screenshots/mobile.jpg)
 
 > *Make sure to replace these image paths with your actual screenshots inside a `/screenshots/` directory.*
 
